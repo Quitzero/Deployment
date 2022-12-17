@@ -1,0 +1,6 @@
+Ввод:
+aabBcde
+indivisibilities
+Вывод:
+Ошибка, aabBcde не является положительным числом!
+Ошибка, indivisibilities не является положительным числом!

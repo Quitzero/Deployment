@@ -1,0 +1,6 @@
+Ввод:
+True <class 'bool'>
+False <class 'bool'>
+Вывод:
+Теперь значение True имеет тип <class 'str'>
+Теперь значение False имеет тип <class 'str'>

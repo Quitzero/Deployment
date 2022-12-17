@@ -1,0 +1,6 @@
+Ввод:
+camelsHaveThreeHumps
+gottaGoFast
+Вывод:
+camels-have-three-humps
+gotta-go-fast

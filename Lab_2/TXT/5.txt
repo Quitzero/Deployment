@@ -1,0 +1,6 @@
+Ввод:
+aabBcde
+indivisibilities
+Вывод:
+2
+2
